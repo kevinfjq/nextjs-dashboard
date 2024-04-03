@@ -6,5 +6,5 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 
 
 Credentials for login:
--email: nextjs@email.coom
+-email: user@nextmail.com
 -password: 123456
